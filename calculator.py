@@ -23,4 +23,3 @@ else:
     hour = abs(time1_hour - time2_hour)
 
 print(f'Time1 - Time2 = {hour}:{minute}')
-# update test
